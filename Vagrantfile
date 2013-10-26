@@ -118,6 +118,4 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   #
   #   chef.validation_client_name = "ORGNAME-validator"
   #   
-  # Keeps VirtualBox guest edition updated
-  vagrant plugin install vagrant-vbguest
 end
