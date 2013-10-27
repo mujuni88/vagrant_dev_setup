@@ -1,5 +1,5 @@
 class github {
-	package { "github":
+	package { 'git':
 		ensure => installed,
 	}
 }
