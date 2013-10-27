@@ -1,4 +1,4 @@
-Development environment: Ubuntu 12.04
+Dev environment: Ubuntu 12.04
 =========================================
 
 ##v1.0.0 (10-27-2013)
