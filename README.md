@@ -1,5 +1,5 @@
-Development environment
-=======================
+Development environment on Ubuntu 12.04
+=======================================
 
 ##v1.0.0 (10-27-2013)
 
