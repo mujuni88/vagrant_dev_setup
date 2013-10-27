@@ -1,6 +1,9 @@
 # install github
 include github
 
+# install vim 
+include vim
+
 # install node.js
 include nodejs
 
