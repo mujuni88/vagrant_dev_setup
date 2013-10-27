@@ -1,7 +1,7 @@
 Development environment
 =======================
 
-##v1.0 (10-27-2013)
+##v1.0.0 (10-27-2013)
 
 ###Installed applications
 1. Github
