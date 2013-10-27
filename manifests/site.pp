@@ -1,9 +1,9 @@
 # install github
 include github
 
-# node.js
+# install node.js
 include nodejs
 
-# Installs all dependencies for node.js project
+# installs all node.js libraries for a web app
 include nodejsframework
 
