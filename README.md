@@ -2,6 +2,8 @@ Development environment
 =======================
 
 ##v1.0 (10-27-2013)
+
+###Installed applications
 1. Github
 2. Node.js
 3. Express framework and other packages for test driven development and restful api 
