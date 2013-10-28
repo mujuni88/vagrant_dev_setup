@@ -7,4 +7,5 @@ class nodejsframework {
 	include mongoskin
 	include superagent
 	include expectjs
+	include testem
 }			
