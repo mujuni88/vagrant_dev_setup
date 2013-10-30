@@ -4,12 +4,15 @@ include github
 # install vim 
 include vim
 
-# install node.js
-class {'nodejs':
-	version => '0.10.21-1chl1~precise1',
-	manage_repo => true
-}
+# install mongodb
+include mongodb
 
-# installs all node.js libraries for a web app
-include nodejsframework
+# install node.js
+include nodejs
+
+# installs express(web framework for node.js) &
+# installs mocha(test framework for TDD development), expect.js
+# mongoskin(mongodb library), superagent(ajax library) & testem
+include nodejswebframework
+
 

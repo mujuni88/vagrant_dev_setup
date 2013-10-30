@@ -1,7 +1,7 @@
-# Class: nodejsframework
+# Class: nodejswebframework
 #
 #
-class nodejsframework {
+class nodejswebframework {
 	include express
 	include mocha
 	include mongoskin
